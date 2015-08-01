@@ -10,6 +10,8 @@
         {
             "type": "Feature",
             "properties": {
+              "marker-color": "#CC0000",
+              "stroke": "#2222AA",
                 "PLACE": "Brooklyn Bridge",
                 "CITY": "New York",
                 "STATE": "NY",
