@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.70745,
-                    -73.996864
+                    -73.996864,
+                    40.70745
                 ]
             },
             "properties": {
@@ -16,7 +16,7 @@
                 "PLACE": "Brooklyn Bridge",
                 "CITY": "New York",
                 "STATE": "NY",
-                "TITLE": "The Night Gewn Stacy died",
+                "SIGNIFICANCE": "The Night Gewn Stacy died",
                 "WEBURL": "http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c"
             }
         },   {
@@ -24,8 +24,8 @@
               "geometry": {
                   "type": "Point",
                   "coordinates": [
-                      40.70989,
-                      -73.854947
+                      -73.854947,
+                      40.70989
                   ]
               },
               "properties": {
@@ -34,7 +34,7 @@
                   "PLACE": "Parker Residence",
                   "CITY": "New York",
                   "STATE": "NY",
-                  "TITLE": "TAunt May's and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics.",
+                  "SIGNIFICANCE": "Aunt May's and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics.",
                   "WEBURL": "No digitial comic"
               }
           }
