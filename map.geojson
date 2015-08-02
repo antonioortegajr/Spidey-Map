@@ -13,11 +13,12 @@
             "properties": {
                 "marker-color": "#CC0000",
                 "stroke": "#2222AA",
-                "PLACE": "Brooklyn Bridge",
-                "CITY": "New York",
-                "STATE": "NY",
-                "SIGNIFICANCE": "The Night Gewn Stacy died",
-                "WEBURL": "<a href=\"http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" terget=\"_blank\"><img src=\"http://i.annihil.us/u/prod/marvel/i/mg/c/40/519a5bc94bfb2.jpg\" width=\"30%\" height=\"30%\"></a>"
+                "marker-symbol": "danger",
+                "Place": "Brooklyn Bridge",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "The Night Gewn Stacy died",
+                "Digital Comic": "<a id="6507" href=\"http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\"><img src=\"http://i.annihil.us/u/prod/marvel/i/mg/c/40/519a5bc94bfb2.jpg\" width=\"30%\" height=\"30%\"></a>"
 
             }
         },   {
@@ -32,11 +33,11 @@
               "properties": {
                   "marker-color": "#CC0000",
                   "stroke": "#2222AA",
-                  "PLACE": "Parker Residence",
-                  "CITY": "New York",
-                  "STATE": "NY",
-                  "SIGNIFICANCE": "Aunt May and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics.",
-                  "WEBURL": "No digitial comic"
+                  "marker-symbol": "building",
+                  "Place": "Parker Residence",
+                  "City": "New York",
+                  "State": "NY",
+                  "Significance": "Aunt May and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics."
               }
           }
 
