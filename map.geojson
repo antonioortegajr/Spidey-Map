@@ -13,11 +13,10 @@
             "properties": {
                 "marker-color": "#CC0000",
                 "marker-symbol": "danger",
-                "title": "Death of Gwen Stacy",
                 "Place": "Brooklyn Bridge",
                 "City": "New York",
                 "State": "NY",
-                "Significance": "Death of Gwen Stacy, Peter Parker's first love, at the hands of the Green Goblin\nAlthough in the Amazing Spider-Man it was named as the George Washington bridge. The artwork shows the Brooklyn bridge and the story has since been retold in the comics as the Brooklyn bridge.",
+                "Significance": "Death of Gwen Stacy, Peter Parker's first love, at the hands of the Green Goblin. Although in the Amazing Spider-Man it was named as the George Washington bridge. The artwork shows the Brooklyn bridge and the story has since been retold in the comics as the Brooklyn bridge.",
                 "Issues": "Amazing Spider-Man Vol 1 Issues 122 - 123",
                 "Digital Comic": "<a id=\"6507\" href=\"http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
 
@@ -38,7 +37,7 @@
                   "Place": "Parker Residence",
                   "City": "New York",
                   "State": "NY",
-                  "Significance": "Aunt May and Peter's home before it was destroyed, now restored it is again in the new on going story of the comics. This place marker is on the location used in the Spider-Man movie."
+                  "Significance": "Aunt May and Peter's home before it was destroyed, now restored it is again in the new on going story of the comics Thi sis where Peter first meets Mary Jane. This place marker is on the location used in the Spider-Man movie."
               }
           },
           {
@@ -175,7 +174,8 @@
                 "Place": "Empire State Universty",
                 "City": "New York",
                 "State": "NY",
-                "Significance": "Peter attended Empire State University on a science scholarship. His currently a graduate (biophysics major), doctorate studies in biochemistry (incomplete). Always having trouble with splitting his school work with his Spider-Man duties. Here he meets and falls in love with Gwen Stacy. Harry Osborn, Flash Thomson, and Mary Jane all go here while Pete is enrolled. Dr. Curt Conners was a professor and Dr. Miles Warren(later the Jackel) was a biochemistry professor. Other notable alumni include Reed Richards (later Mister Fantastic), Ben Grimm (later the Thing),Victor Von Doom (later Doctor Doom), Johnny Storm (later the Human Torch), and even Emma Frost have attended to this school."
+                "Significance": "Peter attended Empire State University on a science scholarship. His currently a graduate (biophysics major), doctorate studies in biochemistry (incomplete). Always having trouble with splitting his school work with his Spider-Man duties. Here he meets and falls in love with Gwen Stacy. Harry Osborn, Flash Thomson, and Mary Jane all go here while Pete is enrolled. Dr. Curt Conners was a professor and Dr. Miles Warren(later the Jackel) was a biochemistry professor. Other notable alumni include Reed Richards (later Mister Fantastic), Ben Grimm (later the Thing),Victor Von Doom (later Doctor Doom), Johnny Storm (later the Human Torch), and even Emma Frost have attended to this school.",
+                "Marvel Wiki": "<a href=\"https://marvel.com/universe/Empire_State_University\" target=\"_blank\">Link to Marvel Wiki</a>"
 
             }
         },
@@ -453,7 +453,99 @@
 
 
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -122.66810400000001,
+                  45.527998
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Portland",
+                "City": "Portland",
+                "State": "OR",
+                "Significance": "Spider-Man fights a foe named Tendril here at the the Steel Bridge. After moving out to Portland to lead a normal life, the Parkers find that is just not going to happen for them. Even when Spidey has his clone Ben taking care of New York and MJ with child, Peter can never stop finding himself in the Spider-Man role."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -122.66810400000001,
+                  45.527998
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Hope B.C.",
+                "Province": "British Colombia",
+                "Significance": "Teaming up here with Wolverine, Spidey clears the name of a beast of legend. The Wendigo, who is wrongly accused of murdering children. Out of his element in the forest and very disturbed by the brutal child killings, Spider-Man shows again that being a hero and living up to his great responsibility is part of who he is, no matter what the location. With a little help from Wolverine."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -106.900063,
+                  35.993147
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Desert, New Mexico",
+                "State": "New Mexico",
+                "Significance": "This location is the first place Spider-Man meets his lifetime enemy the Green Goblin. Lured to Hollywood under the pretense of shooting a movie, then sent to the \"shooting local\". Spider-Man must fight a cranky Hulk that was hiding in a cave near by. The local had caves and a spring. I did some research on movie locals in New Mexico and this is a popular one in the 60's that fits the description. I will leave it here until I find a better place."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  2.34969,
+                  48.85305
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Notre Dame",
+                "Region": "le-de-France",
+                "Significance": "Maybe not the most important time that Spider-Man saved J. Jonah Jameson. The fact that Spidey went all the way to Paris to do so shows how obvious clues to secret identities are lost on most chracters in comics. Also after traveling all that way just to save him, Jonah can still find a way to hate Spider-Man. A loathing that might always exist for Spidey."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.948288,
+                  40.850858
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Spidey meets a Spider-Man from the year 2211. A fight with a Goblin from that year takes place and Spider-Man has time traveling Spider problems to add to \"the normal\" clone Spider-Men problems."
+
+            }
         }
+
 
 
     ]
