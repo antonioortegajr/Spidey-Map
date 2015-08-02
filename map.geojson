@@ -12,12 +12,13 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "stroke": "#2222AA",
                 "marker-symbol": "danger",
+                "title": "Death of Gwen Stacy",
                 "Place": "Brooklyn Bridge",
                 "City": "New York",
                 "State": "NY",
-                "Significance": "The Night Gewn Stacy died",
+                "Significance": "The location of Gewn Stacy death at the hads of the Green Goblin",
+                "Issues": "Amazing Spider-Man Vol 1 Issues 122 - 123"
                 "Digital Comic": "<a id="6507" href=\"http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
 
             }
@@ -32,7 +33,6 @@
               },
               "properties": {
                   "marker-color": "#CC0000",
-                  "stroke": "#2222AA",
                   "marker-symbol": "building",
                   "Place": "Parker Residence",
                   "City": "New York",
