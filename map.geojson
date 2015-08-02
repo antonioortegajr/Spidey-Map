@@ -56,7 +56,8 @@
                     "Place": "Daily Bugle",
                     "City": "New York",
                     "State": "NY",
-                    "Significance": "The New York newspaper that is J. Jonah Jameson's baby and Perter Parker's former place of employment for years. Recently sold out from under J.J. now known as the \"DB\"."
+                    "Significance": "The New York newspaper that is J. Jonah Jameson's baby and Perter Parker's former place of employment for years. Recently sold out from under J.J. now known as the \"DB\".",
+                    "Marvel Wiki": "<a href=\"https://marvel.com/universe/Baxter_Building\" target=\"_blank\">Link to Marvel Wiki</a>"
                 }
             },
             {
@@ -70,7 +71,7 @@
                   },
                   "properties": {
                       "marker-color": "#CC0000",
-                      "marker-symbol": "heart",
+                      "marker-symbol": "town-hall",
                       "Place": "City Hall",
                       "City": "New York",
                       "State": "NY",
@@ -78,7 +79,382 @@
                       "Issues": "Amazing Spider-Man Vol 1 Issues 122 - 123",
                       "Digital Comic": "<a id=\"16896\" href=\"https://comicstore.marvel.com/Amazing-Spider-Man-Annual-21/digital-comic/5055?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
                   }
-              }
+              },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.979943,
+                  40.784352
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "building",
+                "Place": "Mary Jane's Apartment",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Before being a Spidey spouse MJ lived a dancing party girl lifestyle in between her acting and modeling gigs"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.995962,
+                  40.705329
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "commercial",
+                "Place": "Baxter Building",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Home to the Fantastic Four, Spider-Man has been a guest in this location many times over the years. Notably when he asked Dr. Reed Richards for help in the removal and containment of the alien symbiote that tried to take him over. This building has been destroyed and rebuilt many times over like many super hero homes.",
+                "Marvel Wiki": "<a href=\"https://marvel.com/universe/Baxter_Building\" target=\"_blank\">Link to Marvel Wiki</a>"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.980392,
+                  40.705322
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "industrial",
+                "title": "Spider-Man dumps clones body in smoke stack",
+                "Place": "Brooklyn Bridge",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "After fighting a clone of himself created by the Jackel. Spider-Man dumps the seeming deceased body in a smoke stack to protect his secret identity.
+        While the address of the stack is unknown these stacks fit the bill pretty well. In appearance and location.",
+                "Issues": "Amazing Spider-Man Vol 1 Issue 151",
+                "Digital Comic": "<a id=\"6540\" href=\"http://comicstore.marvel.com/Amazing-Spider-Man-151/digital-comic/29135?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.959757,
+                  40.774038
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "building",
+                "Place": "J. Jonah's Penthouse",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Jolly J. Jonah's home away from the Daily Bugle."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.995962,
+                  40.705329
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "college",
+                "Place": "Empire State Universty",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Peter attended Empire State University on a science scholarship. His currently a graduate (biophysics major), doctorate studies in biochemistry (incomplete). Always having trouble with splitting his school work with his Spider-Man duties. Here he meets and falls in love with Gwen Stacy. Harry Osborn, Flash Thomson, and Mary Jane all go here while Pete is enrolled. Dr. Curt Conners was a professor and Dr. Miles Warren(later the Jackel) was a biochemistry professor. Other notable alumni include Reed Richards (later Mister Fantastic), Ben Grimm (later the Thing),Victor Von Doom (later Doctor Doom), Johnny Storm (later the Human Torch), and even Emma Frost have attended to this school."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -74.000773,
+                  40.729117
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "hospital",
+                "Place": "Docor Stange's Sactum Sactorium",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Home to Dr. Stephen Vincent Strange(Doctor Strange) and his faithful bodyguard and manservant Wong. Spider-Man often visits the Doctor for help when battling those with magic powers.",
+                "Marvel Wiki": "<a href=\"https://marvel.com/universe/Sanctum_Sanctorum\" target=\"_blank\">Link to Marvel Wiki</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -74.000137,
+                  40.744102
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "danger",
+                "Place": "Peter's Chelsea Apartment",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Listed as 410 Chelsea, Pete's place. Growing up and living on his own. A great pad for the young Pete. Before marrying MJ,  Pete lived the single web swing in and out lifestyle. They both move in later until Mary Jane uses her super-model money to get them a condo."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.967755,
+                  40.771178
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "building",
+                "Place": "\"Old\" Avenger's Masion",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Before being destroyed and teh Avengers moving to Stark tower, the Avenger's mansion was located here. Spider-Man being an honorary Avenger didn't live here but would come by for help on occasion.",
+                "Marvel Wiki": "<a href=\"https://marvel.com/universe/Avengers_Mansion\" target=\"_blank\">Link to Marvel Wiki</a>"
+
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.967755,
+                  40.771178
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "cafe",
+                "Place": "The Coffee Bean",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Long time hang out for the gang at Empire State University."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.974166,
+                  40.75922
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "commercial",
+                "Place": "Stark Tower",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Built by Tony Stark after the destruction of the Avengers mansion, Stark Towers is the new home of the Avengers, and for a brief time the entire Parker family.",
+                "Marvel Wiki": "<a href=\"https://marvel.com/universe/Stark_Tower\" target=\"_blank\">Link to Marvel Wiki</a>"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.982534,
+                  40.751012
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "commercial",
+                "Place": "Fisk Towers",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "The Kingpin of crime runs the city's organized crime through his offices. This has been the scene of many a battle for Spider-Man.",
+                "Marvel Wiki": "<a href=\"https://marvel.com/universe/Stark_Tower\" target=\"_blank\">Link to Marvel Wiki</a>"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.985442,
+                  40.748468
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "commercial",
+                "Place": "Empire State Building",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "While this famous landmark has been the location for many of  Spidey's battles, it was at the top with his Aunt May telling Peter that she had known for years that he was Spider-Man that was the biggest event."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -80.257037,
+                  40.496423
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "airport",
+                "Place": "Pittsburg International Airport",
+                "City": "Pittsburg",
+                "State": "PA",
+                "Significance": "After helping MJ clear up some family troubles, she comes to terms with some of her issues telling Peter she has \"grown up\" and accepts Peter's marriage proposal."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -74.044665,
+                  40.688978
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "monument",
+                "Place": "Statue Of Liberty",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Lady liberty has become the normal meeting place for Spider-Man and one his most frequent crime fighting partners, the Human Torch."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.846997,
+                  40.755994
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "baseball",
+                "Place": "Shea Stadium",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Here Peter meets and fights his clone for the first time. Although he had met Gwen Stacy's clone before this, it's this location where all the crazy clone drama in his life really gets kicked off. Also Peter attended many Mets games here, as he has long been a fan."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.897905,
+                  40.795805
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "prison",
+                "Place": "Raft Prison",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "A supervillain prison that seems to have break outs often.",
+                "Marvel Wiki": "<a href=\"https://marvel.com/universe/Raft\" target=\"_blank\">Link to Marvel Wiki</a>"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.88252,
+                  40.791443
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "prison",
+                "Place": "Rykers Island",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Spelled with a Y in the Marvel universe. Rykers prison has been temporary home to many people important to Spidey. Including Venom, Carnage, and the Kingpin just to name a few."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.959736,
+                  40.751638
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Roosevelt Island",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "When Spidey is endowed with comsic powers he starts fighting some very heavy hitters in the Marvel universe. At this location his new powers allow him to defeat even the Hulk, showing just how much more powerful he had become. Those cosmic powers leave him after he defeats the Tri-Sentinal."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.986448,
+                  40.756327
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "square",
+                "Place": "Time Square",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Like most New York landmarks Spider-Man has had a lot happen here. The unmasking during a press conference for the super-hero registration act(Civil War story) could be the biggest.",
+                "Issues": "Civil War #2",
+                "Digital Comic": "<a id=\"4313\" href=\"http://comicstore.marvel.com/Civil-War-2/digital-comic/5487?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
+
+
+
+            }
+        }
 
 
     ]
