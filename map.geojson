@@ -17,6 +17,7 @@
                 "CITY": "New York",
                 "STATE": "NY",
                 "SIGNIFICANCE": "The Night Gewn Stacy died",
+                "ISSUE": "Issues 121-122",
                 "WEBURL": "http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c"
             }
         },   {
@@ -24,8 +25,8 @@
               "geometry": {
                   "type": "Point",
                   "coordinates": [
-                      -73.854947,
-                      40.70989
+                      -73.995962,
+                      40.705329
                   ]
               },
               "properties": {
