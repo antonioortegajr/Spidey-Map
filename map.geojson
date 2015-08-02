@@ -17,7 +17,7 @@
                 "Place": "Brooklyn Bridge",
                 "City": "New York",
                 "State": "NY",
-                "Significance": "The location of Gewn Stacy death at the hads of the Green Goblin",
+                "Significance": "Death of Gwen Stacy, Peter Parker's first love, at the hands of the Green Goblin\nAlthough in the Amazing Spider-Man it was named as the George Washington bridge. The artwork shows the Brooklyn bridge and the story has since been retold in the comics as the Brooklyn bridge.",
                 "Issues": "Amazing Spider-Man Vol 1 Issues 122 - 123",
                 "Digital Comic": "<a id=\"6507\" href=\"http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
 
@@ -37,9 +37,48 @@
                   "Place": "Parker Residence",
                   "City": "New York",
                   "State": "NY",
-                  "Significance": "Aunt May and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics."
+                  "Significance": "Aunt May and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics. This place marker is on the location used in the Spider-Man movie."
               }
-          }
+          },
+          {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -73.854947,
+                        40.70989
+                    ]
+                },
+                "properties": {
+                    "marker-color": "#CC0000",
+                    "marker-symbol": "commercial",
+                    "Place": "Daily Bugle",
+                    "City": "New York",
+                    "State": "NY",
+                    "Significance": "The New York newspaper that is J. Jonah Jameson's baby and Perter Parker's former place of employment for years. Recently sold out from under J.J. now known as the \"DB\"."
+                }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                          -74.006063,
+                          40.712736
+                      ]
+                  },
+                  "properties": {
+                      "marker-color": "#CC0000",
+                      "marker-symbol": "heart",
+                      "Place": "City Hall",
+                      "City": "New York",
+                      "State": "NY",
+                      "Significance": "Peter Parker finally ties the knot with Mary Jane here at city hall. Making him the happiest and luckiest wall crawler in the world. While Spider-Man's fame and life have often gotten in the way, MJ has had her share of non-Spidey related problems. All and all they have taken on each others problems and made their marriage work. Though recently the marriage is undone by Miphisto. Nobody believes that these two can be kept apart.",
+                      "Issues": "Amazing Spider-Man Vol 1 Issues 122 - 123",
+                      "Digital Comic": "<a id=\"16896\" href=\"https://comicstore.marvel.com/Amazing-Spider-Man-Annual-21/digital-comic/5055?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
+                  }
+              }
+
 
     ]
 }
