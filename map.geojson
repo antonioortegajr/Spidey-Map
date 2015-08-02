@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.996864,
-                    40.70745
+                  -73.995962,
+                  40.705329
                 ]
             },
             "properties": {
@@ -17,16 +17,16 @@
                 "CITY": "New York",
                 "STATE": "NY",
                 "SIGNIFICANCE": "The Night Gewn Stacy died",
-                "ISSUE": "Issues 121-122",
-                "WEBURL": "http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c"
+                "WEBURL": "<a href=\"http://comicstore.marvel.com/Amazing-Spider-Man-121/digital-comic/4966?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\"><img src=\"http://i.annihil.us/u/prod/marvel/i/mg/c/40/519a5bc94bfb2.jpg\" width=\"100px\"></a>"
+
             }
         },   {
               "type": "Feature",
               "geometry": {
                   "type": "Point",
                   "coordinates": [
-                      -73.995962,
-                      40.705329
+                      -73.854947,
+                      40.70989
                   ]
               },
               "properties": {
@@ -35,7 +35,7 @@
                   "PLACE": "Parker Residence",
                   "CITY": "New York",
                   "STATE": "NY",
-                  "SIGNIFICANCE": "Aunt May's and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics.",
+                  "SIGNIFICANCE": "Aunt May and Peter's home before it was destroyed, and now restored it is again in the new on going story of the comics.",
                   "WEBURL": "No digitial comic"
               }
           }
