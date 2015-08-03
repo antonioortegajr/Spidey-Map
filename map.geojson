@@ -489,7 +489,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "circle",
                 "Place": "Hope B.C.",
                 "Province": "British Colombia",
                 "Significance": "Teaming up here with Wolverine, Spidey clears the name of a beast of legend. The Wendigo, who is wrongly accused of murdering children. Out of his element in the forest and very disturbed by the brutal child killings, Spider-Man shows again that being a hero and living up to his great responsibility is part of who he is, no matter what the location. With a little help from Wolverine.",
@@ -510,7 +510,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "circle",
                 "Place": "Desert, New Mexico",
                 "State": "New Mexico",
                 "Significance": "This location is the first place Spider-Man meets his lifetime enemy the Green Goblin. Lured to Hollywood under the pretense of shooting a movie, then sent to the \"shooting local\". Spider-Man must fight a cranky Hulk that was hiding in a cave near by. The local had caves and a spring. I did some research on movie locals in New Mexico and this is a popular one in the 60's that fits the description. I will leave it here until I find a better place.",
@@ -529,7 +529,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "religious-christian",
                 "Place": "Notre Dame",
                 "Region": "le-de-France",
                 "Significance": "Maybe not the most important time that Spider-Man saved J. Jonah Jameson. The fact that Spidey went all the way to Paris to do so shows how obvious clues to secret identities are lost on most chracters in comics. Also after traveling all that way just to save him, Jonah can still find a way to hate Spider-Man. A loathing that might always exist for Spidey."
@@ -566,7 +566,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "playground",
                 "Place": "Coney Island",
                 "City": "New York",
                 "State": "NY",
@@ -604,7 +604,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "pitch",
                 "Place": "Gym on Broadway and Canal",
                 "City": "New York",
                 "State": "NY",
