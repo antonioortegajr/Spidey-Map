@@ -470,7 +470,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "city",
                 "Place": "Portland",
                 "City": "Portland",
                 "State": "OR",
@@ -642,7 +642,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "circle",
                 "Place": "Savage Land",
                 "Significance": "Given at Marvel.com as 69º 30’ S, 68º 30’ W, the Savage Land is a pocket of land untouched by time and the general goings on of the rest of the Earth. It's still teaming with Dinos and super beings. Here as one of the New Avengers Spidey helps protect the Savage Land and continues to be a major force as a  Marvel hero. Not bad for a guy that can't always pay his rent."
 
@@ -659,7 +659,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "circle",
                 "Place": "Latveria",
                 "Significance": "Latveria is located between the nations of Hungary, Serbia, and Romania. It also borders Symkaria, home of Silver Sable. Surrounded by the Carpathians to the north and the Malhela range to the south, Latveria is under the strict control of Victor Von Doom. Spidey has visited Latveria on several occasions. To find Mary-Jane when she was missing, and as part of a secret operation so secret he didn't even know he was a part of it, and once even to joyride in the only working time machine in existence."
 
@@ -693,7 +693,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "city",
                 "Place": "Cleveland",
                 "State": "OH",
                 "Significance": "Despite their friendly rivalry DC comics paved the way for many of the Marvel comics to come. While in Cleveland on his book tour for \"Webs\" a coffee table book of Spider-Man photos from the bugle, Mary Jane buys an Action comic with Supergirl on the cover for Peter. This event took place during the 50th anniversary of Superman. The cover of this comic also was Spidey lifting a car to save some people, an homage to Action Comics #1 first appearance of Superman."
@@ -768,7 +768,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "circle",
                 "Place": "Symkaria",
                 "Significance": "Only existing in the Marvel universe The country of Symkaria is home to the Silver Sable. The leader of a for hire group called the \"Wild Pack\". Spidey has helped out the Sable for purely noble reasons. Other times when in need of cash for rent or emergency."
 
@@ -819,7 +819,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "city",
                 "City": "Emporia",
                 "State": "KS",
                 "Significance": "Peter almost takes a job here for a company called On-Line Research as chief assistant. He decides to go back to school and stay in New York. He couldn't leave the big apple and Aunt May anyway. Imagine if the all the Spidey comics took place here."
@@ -856,7 +856,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "circle",
                 "Place": "Some Crummy Canadian Island",
                 "Provence": "Newfoundland and Labrador",
                 "Significance": "Referred to as such by Hammerhead, this island was to go to Aunt May as an inheritance. He and Doctor Octopus catch wind of this and the good doctor hatches a plan to marry old Aunt May. As the island has \"one of the richest supplies of uranium found in nature\" and there is already an airfield and \"one of the world's most sophisticated nuclear breeding reactors\" built on the site. For some reason, all unknown to the Parkers. Spidey foils the plot."
@@ -874,7 +874,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "marker",
+                "marker-symbol": "circle",
                 "Place": "Wakanda",
                 "Significance": "Only existing in the Marvel universe Wakanda is home to the largest deposit of Vibranium in the world and the birthplace of T'Challa(The Black Panther). In an effort to cure him of a life threating ailment, Spider-Man is one of the very few ever to be honored by the Wakandans and givin their heart-shaped herb that grants the person who consumes it enhanced strength, agility, and perception."
 
