@@ -12,4 +12,7 @@ Links digital comics were added when applicable. These links were found via the 
 
 Icons from https://www.mapbox.com/maki/ were used.
 
+
+Map docs: https://help.github.com/articles/mapping-geojson-files-on-github/
+
 Would be great to start another map for some character. Possibly a team like X-Men for Fantastic Four. Then merge all the json into one giant Marvel map. Should this get any interest or I will write some guidelines for the json.
