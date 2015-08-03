@@ -369,7 +369,10 @@
                 "Place": "Shea Stadium",
                 "City": "New York",
                 "State": "NY",
-                "Significance": "Here Peter meets and fights his clone for the first time. Although he had met Gwen Stacy's clone before this, it's this location where all the crazy clone drama in his life really gets kicked off. Also Peter attended many Mets games here, as he has long been a fan."
+                "Significance": "Here Peter meets and fights his clone for the first time. Although he had met Gwen Stacy's clone before this, it's this location where all the crazy clone drama in his life really gets kicked off. Also Peter attended many Mets games here, as he has long been a fan.",
+                "Issues": "Amazing Spidr-Man vol 1 #149",
+                "Digital Comic": "<a id=\"6537\" href=\"http://comicstore.marvel.com/Amazing-Spider-Man-149/digital-comic/29133?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
+
 
             }
         },
@@ -427,7 +430,9 @@
                 "Place": "Roosevelt Island",
                 "City": "New York",
                 "State": "NY",
-                "Significance": "When Spidey is endowed with comsic powers he starts fighting some very heavy hitters in the Marvel universe. At this location his new powers allow him to defeat even the Hulk, showing just how much more powerful he had become. Those cosmic powers leave him after he defeats the Tri-Sentinal."
+                "Significance": "When Spidey is endowed with comsic powers he starts fighting some very heavy hitters in the Marvel universe. At this location his new powers allow him to defeat even the Hulk, showing just how much more powerful he had become. Those cosmic powers leave him after he defeats the Tri-Sentinal.",
+                "Issues": "Amazing Spidr-Man vol 1 #328",
+                "Digital Comic": "<a id=\"6736\" href=\"http://comicstore.marvel.com/Amazing-Spider-Man-328/digital-comic/5008?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
 
             }
         },
@@ -487,7 +492,10 @@
                 "marker-symbol": "marker",
                 "Place": "Hope B.C.",
                 "Province": "British Colombia",
-                "Significance": "Teaming up here with Wolverine, Spidey clears the name of a beast of legend. The Wendigo, who is wrongly accused of murdering children. Out of his element in the forest and very disturbed by the brutal child killings, Spider-Man shows again that being a hero and living up to his great responsibility is part of who he is, no matter what the location. With a little help from Wolverine."
+                "Significance": "Teaming up here with Wolverine, Spidey clears the name of a beast of legend. The Wendigo, who is wrongly accused of murdering children. Out of his element in the forest and very disturbed by the brutal child killings, Spider-Man shows again that being a hero and living up to his great responsibility is part of who he is, no matter what the location. With a little help from Wolverine.",
+                "Issues": "Spider-Man #8 - #12",
+                "Digital Comic": "<a id=\"\" href=\"https://comicstore.marvel.com/Spider-Man-10/digital-comic/29676?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
+
 
             }
         },
@@ -505,8 +513,9 @@
                 "marker-symbol": "marker",
                 "Place": "Desert, New Mexico",
                 "State": "New Mexico",
-                "Significance": "This location is the first place Spider-Man meets his lifetime enemy the Green Goblin. Lured to Hollywood under the pretense of shooting a movie, then sent to the \"shooting local\". Spider-Man must fight a cranky Hulk that was hiding in a cave near by. The local had caves and a spring. I did some research on movie locals in New Mexico and this is a popular one in the 60's that fits the description. I will leave it here until I find a better place."
-
+                "Significance": "This location is the first place Spider-Man meets his lifetime enemy the Green Goblin. Lured to Hollywood under the pretense of shooting a movie, then sent to the \"shooting local\". Spider-Man must fight a cranky Hulk that was hiding in a cave near by. The local had caves and a spring. I did some research on movie locals in New Mexico and this is a popular one in the 60's that fits the description. I will leave it here until I find a better place.",
+                "Issues": "Amazing Spider-Man vol 1 #14",
+                "Digital Comic": "<a id=\"6527\", href=\"http://comicstore.marvel.com/Amazing-Spider-Man-14/digital-comic/1363?utm_campaign=apiRef&utm_source=943c149ea5e654a43e439f621976449c\" target=\"_blank\">Get the digital comic</a>"
             }
         },
         {
@@ -539,9 +548,30 @@
             "properties": {
                 "marker-color": "#CC0000",
                 "marker-symbol": "marker",
+                "Place": "George Washington bridge",
                 "City": "New York",
                 "State": "NY",
                 "Significance": "Spidey meets a Spider-Man from the year 2211. A fight with a Goblin from that year takes place and Spider-Man has time traveling Spider problems to add to \"the normal\" clone Spider-Men problems."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.979069,
+                  40.573972000000005
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Coney Island",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Spidey got unmasked here by Doc Ock. He had a cold at the time and fought poorly. So poorly, that when unmasked the Dr., he refused to believe it to be the real Spider-Man. A good example of how Spider-Man has real problems like a cold.  Also a good example of how hard it can be to have your secret identity revealed.
+        Also Uncle Ben used to work here when he first dated Aunt May."
 
             }
         }
