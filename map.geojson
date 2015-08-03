@@ -484,7 +484,7 @@
                 "type": "Point",
                 "coordinates": [
                   -122.66810400000001,
-                  45.527998
+                  49.363036
                 ]
             },
             "properties": {
@@ -571,6 +571,380 @@
                 "City": "New York",
                 "State": "NY",
                 "Significance": "Spidey got unmasked here by Doc Ock. He had a cold at the time and fought poorly. So poorly, that when unmasked the Dr., he refused to believe it to be the real Spider-Man. A good example of how Spider-Man has real problems like a cold.  Also a good example of how hard it can be to have your secret identity revealed. Also Uncle Ben used to work here when he first dated Aunt May."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.782914,
+                  40.643543
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "airport",
+                "Place": "J.F.K International",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "Peter and Mary Jane have their first kiss shown in the comics.(I think, still double checking on that) Even with the then sightings of his first love Gwen Stacy(clone) messing with Peter's head, his true feelings for MJ are shown."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -74.001693,
+                  40.719409
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Gym on Broadway and Canal",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "After unmasking himself during the super hero civil war, Spider-Man finally has it out with J. Jonah Jameson. Inviting J.J.J. to a gym, Peter gets a chance to tell him off and say all the things he hasn't been able to over the years. The latest in the Spidey story has all of this erased from history, but at least once, Pete got to say his piece."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.969831,
+                  40.776349
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "park2",
+                "Place": "Central Park",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "The setting of many events in Peter's and Spidey's life. Everything from near death battles, to family outings, to coming back from an alien world covered in a evil symbiote."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -66.401367,
+                  -68.91891
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Savage Land",
+                "Significance": "Given at Marvel.com as 69º 30’ S, 68º 30’ W, the Savage Land is a pocket of land untouched by time and the general goings on of the rest of the Earth. It's still teaming with Dinos and super beings. Here as one of the New Avengers Spidey helps protect the Savage Land and continues to be a major force as a  Marvel hero. Not bad for a guy that can't always pay his rent."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  22.587891,
+                  47.144897
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Latveria",
+                "Significance": "Latveria is located between the nations of Hungary, Serbia, and Romania. It also borders Symkaria, home of Silver Sable. Surrounded by the Carpathians to the north and the Malhela range to the south, Latveria is under the strict control of Victor Von Doom. Spidey has visited Latveria on several occasions. To find Mary-Jane when she was missing, and as part of a secret operation so secret he didn't even know he was a part of it, and once even to joyride in the only working time machine in existence."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -117.918974,
+                  33.812119
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Disneyland",
+                "Significance": "Peter has been to L.A. more than a few times. From coming out to meet about a Spider-Man movie, to trying to win back Mary Jane while she was making a movie, to promoting a book on Spider-Man called Webs. Seems even though the name Spider-Man could really sell, Peter just can't ever cash in. But does use the book deal to talk MJ into a visit to Disneyland."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -81.690302,
+                  41.504721
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Cleveland",
+                "State": "OH",
+                "Significance": "Despite their friendly rivalry DC comics paved the way for many of the Marvel comics to come. While in Cleveland on his book tour for \"Webs\" a coffee table book of Spider-Man photos from the bugle, Mary Jane buys an Action comic with Supergirl on the cover for Peter. This event took place during the 50th anniversary of Superman. The cover of this comic also was Spidey lifting a car to save some people, an homage to Action Comics #1 first appearance of Superman."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -74.013779,
+                  40.702539
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "religious-christian",
+                "Place": "Lady Of Our Saints Church",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "The Lady Of Our Saints Church is the location where Peter breaks free of the alien symbiote as Eddie Brock is praying and about to commit suicide. They join and they are Venom. I am putting the Lady Of Our Saints Church here on the Church of <a href=\"http://www.setonshrine.com/\" target=\"_blank\">Our Lady</a> of the Rosary, seems to fit the bill. Has a bell tower kinda looks like the church and is in Spidey's stomping grounds."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.992134,
+                  40.749742
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "rail",
+                "Place": "Penn Station",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "It's at Penn Station that Aunt May tells Peter that she is planning to move in with Anna Watson(Mary Jane's aunt). This is the when Peter first gets the chance to be Spider-Man and not have to be the only super hero that has to be in before curfew. He will relinquish this liberty when he dates and upon marriage. Also in at the time of this comic's printing, Penn Station was only recently completed."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.978334,
+                  40.758599
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "monument",
+                "Place": "Rockefeller Plaza",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "One of the last times J. Jonah Jameson commissions and mans a mechanical Spider Slayer, only to be defeated here and cause some expensive damage to the statue by the ice rink. Although just a huge wast of money over the years J.J.J. has paid for several \"Spider Slayers\". J. Jonah has seemed to learn his lesson here and quit this habit."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  20.114594,
+                  45.571755
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Symkaria",
+                "Significance": "Only existing in the Marvel universe The country of Symkaria is home to the Silver Sable. The leader of a for hire group called the \"Wild Pack\". Spidey has helped out the Sable for purely noble reasons. Other times when in need of cash for rent or emergency."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  0.42237300000000005,
+                  51.46962200000001
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "airport",
+                "Place": "Heathrow Airport",
+                "Significance": "On assignment for the Daily Bugle, Peter and Joy Mercado get caught up in a IRA attack that Peter must foil with out the Spider-Man outfit as not to cause people to wonder why Pete and Spidey are there at the same time. At this time the conflict would have been in the world news and Spider-Man comics have a history of reflecting some of the problems at the time. From taking on drugs in the seventies to this story about a fictionalized conflict based on real events."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -80.92804,
+                  25.339061
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "wetland",
+                "Place": "Flordia Everglades",
+                "Significance": "Spider-Man fought his friend Dr. Curt Conners after being transformed into the Lizard. Never able to fully fight him as any injury to the Lizard will be an injury to Dr. Conners, battles like these teach Spider-Man early on that he must use his intelligence more often than his spider powers."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -96.17981,
+                  38.40585
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "City": "Emporia",
+                "State": "KS",
+                "Significance": "Peter almost takes a job here for a company called On-Line Research as chief assistant. He decides to go back to school and stay in New York. He couldn't leave the big apple and Aunt May anyway. Imagine if the all the Spidey comics took place here."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.924902,
+                  40.768287
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "hospital",
+                "Place": "Mount Sinai Hospital",
+                "City": "New York",
+                "State": "NY",
+                "Significance": "After suffering a heart attack induced by a angry Peter Parker, J. Jonah Jameson while trying to recover learns that his life's work the Daily Bugle has been sold out from under him by his wife. It is currently the \"DB\" and J. J. couldn't be less happy about it."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -66.015472,
+                  43.406045
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Some Crummy Canadian Island",
+                "Provence": "Newfoundland and Labrador",
+                "Significance": "Referred to as such by Hammerhead, this island was to go to Aunt May as an inheritance. He and Doctor Octopus catch wind of this and the good doctor hatches a plan to marry old Aunt May. As the island has \"one of the richest supplies of uranium found in nature\" and there is already an airfield and \"one of the world's most sophisticated nuclear breeding reactors\" built on the site. For some reason, all unknown to the Parkers. Spidey foils the plot."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  37.924805,
+                  3.645
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "marker",
+                "Place": "Wakanda",
+                "Significance": "Only existing in the Marvel universe Wakanda is home to the largest deposit of Vibranium in the world and the birthplace of T'Challa(The Black Panther). In an effort to cure him of a life threating ailment, Spider-Man is one of the very few ever to be honored by the Wakandans and givin their heart-shaped herb that grants the person who consumes it enhanced strength, agility, and perception."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.009944,
+                  38.889805
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "town-hall",
+                "Place": "U.S. Capital Building",
+                "Significance": "On Jan. 20th Peter Parker is sent to cover the swearing in of President Obama. An imposter shows and After a quick change Spider-Man is there to sort everything out(it was the Cameleon) And even bump fists with Obama."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.598828,
+                  41.32897
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "school",
+                "Place": "Xavier Institute For Higher Learning",
+                "Significance": "1407 Graymalkin Lane, Salem Center, Westchester County is home to the X-Men. After being asked to join and declining, Spider-Man and the X-Men often work together. While not a mutant himself he does support their cause and will aid in it. Like wise he has visited the institute to ask for their help. Last I have read it was recently destroyed again after the Marvel Civil War."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.982336,
+                  40.768558
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "building",
+                "Place": "Osborn Manor",
+                "Significance": "Listed in recent comics as on Columbus Circle and seemingly placed facing the sun rise I have placed the home of the Green Goblin here. Based on panels from the \"New Ways To Die\" story arc."
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -73.963223,
+                  40.779298
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "theatre",
+                "Place": "The Met",
+                "Significance": "Mary Jane is taken over by the spirit of Red Sonja and battles with Spider-Man."
 
             }
         }
